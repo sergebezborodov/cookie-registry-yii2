@@ -1,5 +1,5 @@
 {
-    "name": "sergebezborodov/cookie-registry",
+    "name": "sergebezborodov/cookie-registry-yii2",
     "type": "library",
     "description": "Cookies registry component for Yii Framework 2",
     "keywords": ["cookies","queries", "yii2"],
